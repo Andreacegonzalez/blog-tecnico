@@ -87,7 +87,7 @@ original. Ejemplo de comentario real usado en la revisión:
 ## Control de versiones: evidencia del trabajo
 
 - **Issue del post-mortem:** `Post-mortem: Caída de checkout - 2026-07-01`
-  → enlace: `https://github.com/tu-usuario/blog-tecnico/issues/1`
+  → enlace: [`https://github.com/tu-usuario/blog-tecnico/issues/1`](https://github.com/Andreacegonzalez/blog-tecnico/issues/1)
 - **PR con la corrección de la migración** (índice sin bloqueo):
   → enlace: `https://github.com/tu-usuario/blog-tecnico/pull/2`
 - **PR con el checklist de migraciones en la plantilla de PR:**
